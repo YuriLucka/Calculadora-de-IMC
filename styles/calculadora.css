@@ -26,7 +26,7 @@ td, th{
     border: solid 1px rgb(196, 196, 196);
 }
 main{
-    margin: 100px auto 0 auto;
+    margin: auto;
     border-radius: 10px;
     background-color: white;
     max-width: 100vw;
@@ -46,6 +46,7 @@ input{
     padding: 5px;
     border: solid 1px rgb(177, 177, 177);
     margin-bottom: 20px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.263);
 }
 
 .btn{
